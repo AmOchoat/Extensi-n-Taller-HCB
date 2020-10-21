@@ -1,0 +1,38 @@
+#Equipo{
+    color: white;
+    background-color: red;
+}
+
+
+#Fondo{
+    background-color: red;
+}
+
+#Tabla thead{
+    color: white;
+    background-color: red;
+
+}
+#trofeos
+{
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    background-color: red;
+}
+
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+#ToDO
+{
+    background-color: rgba(255, 255, 255, 0.849);
+}
